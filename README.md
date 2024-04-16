@@ -27,7 +27,7 @@ hobbies: ["Cycling", "Listening To Music", "Gaming"]
 </a>
 </a>
 <a href="mailto:gofleyus@gmail.com">
-  <img alt="eyus's Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red)" />
+  <img alt="eyus's Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)" />
 </a>
 <br>
 </p>
