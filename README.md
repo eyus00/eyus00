@@ -2,7 +2,7 @@
 
 ```yaml
 name: Aayush Aryal
-age: Fifteen 
+age: 15
 located_in: Helsinki, Finland
 job: N/A
 education: ["Currently In 8th Grade"]
