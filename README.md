@@ -26,8 +26,8 @@ hobbies: ["Cycling", "Listening To Music", "Gaming"]
   <img alt="eyus's Telegram"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" />
 </a>
 </a>
-<a href="https://mailto:gofleyus@gmail.com">
-  <img alt="eyus's Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)" />
+<a href="mailto:gofleyus@gmail.com">
+  <img alt="eyus's Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red)" />
 </a>
 <br>
 </p>
