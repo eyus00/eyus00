@@ -4,7 +4,6 @@
 name: Aayush Aryal
 age: Fifteen 
 located_in: Helsinki, Finland
-from: Nepal
 job: N/A
 education: ["Currently In 8th Grade"]
 school: N/A
@@ -20,7 +19,7 @@ hobbies: ["Cycling", "Listening To Music", "Gaming"]
 
 <p align="center">
 <br/>
-<a href="https://discord.com/users/1165246913197637682">
+<a href="https://discord.com/users/652309996381405184">
   <img alt="eyus's Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://t.me/eyus00">
