@@ -5,7 +5,7 @@ name: Aayush Aryal
 age: 15
 located_in: Helsinki, Finland
 job: N/A
-education: ["Currently In 8th Grade"]
+education: ["Middle School"]
 school: N/A
 past experiences: ["N/A"]
 interests: ["Learning New Things"]
