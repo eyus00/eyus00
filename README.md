@@ -1,4 +1,4 @@
-# hi there, i'm eyus! 👋
+# hi there, i'm eyus00 ! 👋
 
 ```yaml
 name: Aayush Aryal
