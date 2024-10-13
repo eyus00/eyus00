@@ -10,7 +10,7 @@ school: N/A
 past experiences: ["N/A"]
 interests: ["Learning New Things"]
 technical_background: ["N/A"]
-currently_learning: ["Python", "HTML"]
+currently_learning: ["Python"]
 will_learn: ["N/A"]
 hobbies: ["Cycling", "Listening To Music", "Gaming"]
 ```
